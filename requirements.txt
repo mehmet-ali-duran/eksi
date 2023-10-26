@@ -1,5 +1,0 @@
-argparse
-selenium
-os
-time
-selenium.webdriver.common.by
